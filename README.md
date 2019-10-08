@@ -1,9 +1,11 @@
 # Longhorn Community
 
 ## Meetings
-* Regular Meeting: [Every 2nd Friday of the Month at 12:00 Eastern Time (ET)/09:00 Pacific Time (PT)](https://zoom.us/j/710325604) (monthly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=Eastern%20Standard%20Time%20%28EST%29).
-  * [Calendar Invite](https://raw.githubusercontent.com/longhorn/community/master/Longhorn%20Community%20Meetup.ics)
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/1QD119jBX1h544ZQ9E4XaititEMfq8qEByx-42MtRC-g/).
+* Monthly community meeting at the 2nd Friday of the every month at 09:00 Pacific Time (PT)/12:00 Eastern Time (ET)
+  * [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=Eastern%20Standard%20Time%20%28EST%29).
+  * [Meeting link](https://zoom.us/s/705294452).
+  * [Calendar](https://bit.ly/2Mkw67S)
+  * [Meeting notes and agenda](https://docs.google.com/document/d/1QD119jBX1h544ZQ9E4XaititEMfq8qEByx-42MtRC-g/).
   * [Meeting recordings](https://www.youtube.com/channel/UCGk1f-LCVmccf1pX4OvF1Ig).
 
 ## Leadership
@@ -29,7 +31,7 @@ subprojects, and resolve cross-subproject technical issues and decisions.
 
 ## Getting Started
 
-If you're looking for information getting started with Longhorn see [Longhorn](https://github.com/longhorn/longhorn)
+If you're looking for information getting started with Longhorn see [here](https://github.com/longhorn/longhorn)
 
 ## Discuss
 

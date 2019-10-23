@@ -26,7 +26,7 @@ subprojects, and resolve cross-subproject technical issues and decisions.
 
 ## Contact
 
-* Slack: [CNCF #longhorn](https://cloud-native.slack.com/messages/longhorn)
+* Slack: [CNCF](https://slack.cncf.io/) [#longhorn](https://cloud-native.slack.com/messages/longhorn) (sign up [here](https://slack.cncf.io/))
 * [Mailing list](https://groups.google.com/forum/#!forum/longhorn-io)
 * [Open Community Issues/PRs](https://github.com/longhorn/longhorn/issues)
 
@@ -36,7 +36,7 @@ If you're looking for information getting started with Longhorn see [here](https
 
 ## Discuss
 
-Join us on [Slack](https://cloud-native.slack.com/messages/longhorn) or the [Rancher Forums](https://forums.rancher.com/c/longhorn) to chat about Longhorn.
+Join us on [CNCF](https://slack.cncf.io/) [Longhorn channel](https://cloud-native.slack.com/messages/longhorn) or the [Rancher Forums](https://forums.rancher.com/c/longhorn) to chat about Longhorn.
 
 ## Contributing
 

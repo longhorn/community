@@ -36,7 +36,7 @@ If you're looking for information getting started with Longhorn see [here](https
 
 ## Discuss
 
-Join us on [Slack](https://rancher-users.slack.com/messages/longhorn-storage) or the [Rancher Forums](https://forums.rancher.com/c/longhorn) to chat about Longhorn.
+Join us on [Slack](https://cloud-native.slack.com/messages/longhorn) or the [Rancher Forums](https://forums.rancher.com/c/longhorn) to chat about Longhorn.
 
 ## Contributing
 

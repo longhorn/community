@@ -26,7 +26,7 @@ subprojects, and resolve cross-subproject technical issues and decisions.
 
 ## Contact
 
-* Slack: [#longhorn-storage](https://rancher-users.slack.com/messages/longhorn-storage)
+* Slack: [CNCF #longhorn](https://cloud-native.slack.com/messages/longhorn)
 * [Mailing list](https://groups.google.com/forum/#!forum/longhorn-io)
 * [Open Community Issues/PRs](https://github.com/longhorn/longhorn/issues)
 

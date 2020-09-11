@@ -3,7 +3,6 @@
 ## Meetings
 * [See Longhorn Community Events Calendar](http://bit.ly/longhorn-events)
 * Monthly community meeting at the 2nd Friday of the every month at 09:00 Pacific Time (PT)/12:00 Eastern Time (ET)
-  * [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=Eastern%20Standard%20Time%20%28EST%29).
   * [Zoom link for the meeting](http://bit.ly/longhorn-community-meeting).
   * [Copy the calendar](http://bit.ly/longhorn-events)
   * [Meeting notes and agenda](http://bit.ly/longhorn-workdoc).

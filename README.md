@@ -1,10 +1,9 @@
 # Longhorn Community
 
 ## Meetings
-* [See Longhorn Community Events Calendar](http://bit.ly/longhorn-events)
+* See all Longhorn community events at https://community.cncf.io/cncf-longhorn-community/
 * Monthly community meeting at the 2nd Friday of the every month at 09:00 Pacific Time (PT)/12:00 Eastern Time (ET)
-  * [Zoom link for the meeting](http://bit.ly/longhorn-community-meeting).
-  * [Copy the calendar](http://bit.ly/longhorn-events)
+  * Register for event at https://community.cncf.io/cncf-longhorn-community/ .
   * [Meeting notes and agenda](http://bit.ly/longhorn-workdoc).
   * [Meeting recordings](https://www.youtube.com/channel/UCGk1f-LCVmccf1pX4OvF1Ig).
 

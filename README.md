@@ -9,39 +9,13 @@
 
 ## Leadership
 
-### Chairs
+### Maintainers
 
-The responsibilties of Chairs:
-* Host every Longhorn community meetings, including:
-    * Come up with the agenda for every community meeting.
-    * Encourage more people to join the meeting.
-    * Taking notes during the meeting.
-* YouTube channel management
-    * Upload the community meeting recording to YouTube no later than 3 days after it happened.
-    * Select Longhorn and cloud native storage related videos and put them into YouTube playlist on the regular basis.
-    * Promote Longhorn channel in various platforms.
-* Work on non-technical aspect of Longhorn to improve the visibility of Longhorn, e.g. docs and blogs.
-* Help to prepare CNCF related material, e.g. for project annual review, incubation/graduation review etc.
- 
-In the future, it could also expand to
-* Setup and host new community meetings when necessary, e.g. Longhorn design meetings.
-* Organize the marketing event for Longhorn, e.g. local meetup talks.
-* Involve in the CNCF Storage related meetings and provide feedback from Longhorn perspective.
-* Other non-technical/marketing help that Longhorn might need in the future.
-
-Current Chairs:
-
-* Jason van Brackel (**[@jasonvanbrackel](https://github.com/JasonvanBrackel)**), Rancher Labs
-
-### Technical Leads
-
-The responsibilties of Technical Leads:
-* Drive the design and development of the project
-* Establish new subprojects, decommission existing subprojects
-* Resolve cross-subproject technical issues and decisions.
-
-Current Technical Leads:
-* Sheng Yang (**[@yasker](https://github.com/yasker)**), Rancher Labs
+Current Maintainers:
+* Sheng Yang (**[@yasker](https://github.com/yasker)**), SUSE
+* Shuo Wu (**[@shuo-wu](https://github.com/shuo-wu)**), SUSE
+* Joshua Moody (**[@joshimoo](http://github.com/joshimoo)**), SUSE
+* David Ko (**[@innobead](https://github.com/innobead)**), SUSE
 
 ## Contact
 
